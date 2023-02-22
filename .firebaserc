@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "tj-dev": "tj-admin-dev",
+    "tj-qa": "tj-admin-qa",
+    "tj-prod": "yukon",
+    "default": "tj-admin-dev"
+  }
+}

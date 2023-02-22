@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1198" height="236" viewBox="0 0 1198 236">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        font-size: 180.708px;
+      }
+
+      .cls-1, .cls-5 {
+        text-anchor: middle;
+        font-family: Poppins;
+      }
+
+      .cls-1 {
+        fill: #583ea7;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        font-size: 233.73px;
+      }
+
+      .cls-3 {
+        font-weight: 300;
+      }
+
+      .cls-4 {
+        fill: #dc143c;
+        stroke: #dc143c;
+        stroke-width: 5.07px;
+      }
+
+      .cls-5 {
+        font-size: 37.71px;
+        fill: #fff;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="TechJobZ.co" class="cls-1" transform="translate(603 194.831) scale(0.924)"><tspan x="0">TechJob<tspan class="cls-2">Z</tspan>.<tspan class="cls-3">co</tspan></tspan></text>
+  <g id="beta">
+    <rect id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-4" x="1084" y="14" width="86" height="43" rx="10" ry="10"/>
+    <text id="Beta." class="cls-5" transform="translate(1128.076 43.122) scale(0.7)"><tspan x="0">Beta.</tspan></text>
+  </g>
+</svg>
